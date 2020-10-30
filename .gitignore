@@ -1,0 +1,5 @@
+.terraform/
+*.code-workspace
+*.tfstate
+*.tfstate.backup
+*.tfvars
